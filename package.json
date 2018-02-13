@@ -1,0 +1,18 @@
+{
+  "name": "api-restify",
+  "version": "1.0.0",
+  "description": "scraping",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "AlvaroMoralesCaballero",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "nodemon": "^1.14.12",
+    "restify": "^6.3.4",
+    "tinyreq": "^3.3.1"
+  }
+}
